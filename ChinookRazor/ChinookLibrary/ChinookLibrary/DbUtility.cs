@@ -1,8 +1,4 @@
 using System.Text.RegularExpressions;
-// Kaden Parfait
-// C00493778
-// CMPS 358 .NET/C# Programming
-// ChinookLibrary Project
 namespace ChinookLibrary.Models;
 
 public static class DbUtility

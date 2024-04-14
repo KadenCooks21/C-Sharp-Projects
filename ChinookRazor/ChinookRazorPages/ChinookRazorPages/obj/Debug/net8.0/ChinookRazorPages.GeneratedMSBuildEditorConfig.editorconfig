@@ -9,39 +9,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ChinookRazorPages
 build_property.RootNamespace = ChinookRazorPages
-build_property.ProjectDir = /Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/ChinookRazorPages/ChinookRazorPages/
+build_property.ProjectDir = /Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/ChinookRazorPages/ChinookRazorPages/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/ChinookRazorPages/ChinookRazorPages
+build_property.MSBuildProjectDirectory = /Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/ChinookRazorPages/ChinookRazorPages
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/ChinookRazorPages/ChinookRazorPages/Pages/Error.cshtml]
+[/Users/kadencooks/Desktop/C\# Projects/C-Sharp-Projects/ChinookRazor/ChinookRazorPages/ChinookRazorPages/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/ChinookRazorPages/ChinookRazorPages/Pages/Index.cshtml]
+[/Users/kadencooks/Desktop/C\# Projects/C-Sharp-Projects/ChinookRazor/ChinookRazorPages/ChinookRazorPages/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/ChinookRazorPages/ChinookRazorPages/Pages/Privacy.cshtml]
+[/Users/kadencooks/Desktop/C\# Projects/C-Sharp-Projects/ChinookRazor/ChinookRazorPages/ChinookRazorPages/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/ChinookRazorPages/ChinookRazorPages/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/kadencooks/Desktop/C\# Projects/C-Sharp-Projects/ChinookRazor/ChinookRazorPages/ChinookRazorPages/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/ChinookRazorPages/ChinookRazorPages/Pages/_ViewImports.cshtml]
+[/Users/kadencooks/Desktop/C\# Projects/C-Sharp-Projects/ChinookRazor/ChinookRazorPages/ChinookRazorPages/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/ChinookRazorPages/ChinookRazorPages/Pages/_ViewStart.cshtml]
+[/Users/kadencooks/Desktop/C\# Projects/C-Sharp-Projects/ChinookRazor/ChinookRazorPages/ChinookRazorPages/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/ChinookRazorPages/ChinookRazorPages/Pages/Shared/_Layout.cshtml]
+[/Users/kadencooks/Desktop/C\# Projects/C-Sharp-Projects/ChinookRazor/ChinookRazorPages/ChinookRazorPages/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-p1wul9v7qq
