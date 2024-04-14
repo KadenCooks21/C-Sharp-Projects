@@ -1,0 +1,45 @@
+@page "/genretracks"
+@rendermode InteractiveServer
+@using ChinookLibrary.Models
+<h3>List Tracks By Genre</h3>
+
+
+<EditForm Model="@this" OnSubmit="@Submit" FormName="TheseTracks">
+    <datalist id="genres">
+        @foreach (var g in DbUtility.getGenres())
+        {
+            <option label=@g value=@g></option>
+        }
+    </datalist>
+    
+    <InputText @bind-Value="ChosenGenre" list="genres"></InputText>
+    <button type="submit">Submit</button>
+</EditForm>
+
+@if (submitted)
+{
+    <br/>
+    <h3>Here is the List of Tracks in Genre: @ChosenGenre</h3>
+
+    try
+    {
+        <textarea style="min-height: 200px; min-width: 600px">
+        @foreach (var t in DbUtility.getTracksFromGenre(ChosenGenre)) 
+        {
+            @($"{t}\n")
+        }
+    </textarea>
+    }
+    catch
+    {
+        @($"No Tracks From {ChosenGenre}")
+    }
+}
+
+@code {
+    bool submitted = false;
+
+    [SupplyParameterFromForm] public string? ChosenGenre { get; set; }
+
+    private void Submit() => submitted = true;
+}

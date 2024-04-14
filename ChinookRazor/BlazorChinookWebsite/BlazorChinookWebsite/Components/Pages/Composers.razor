@@ -1,0 +1,13 @@
+@page "/composers"
+@rendermode InteractiveServer
+@using ChinookLibrary.Models
+
+<br/>
+<h3>Composers:</h3>
+
+<textarea style="width: 600px; min-height: 300px">
+    @foreach (var c in DbUtility.getComposers()) 
+        {
+            @($"{c}\n")
+        }
+</textarea>

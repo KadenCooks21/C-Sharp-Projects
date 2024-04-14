@@ -1,0 +1,23 @@
+﻿@page "/genres"
+@rendermode InteractiveServer
+@using ChinookLibrary.Models
+
+
+@if (true)
+{
+    <br/>
+    <h3>Genres:</h3>
+
+
+    try
+    {
+        foreach (var genres in DbUtility.getGenres())
+        {
+            @($"{genres}, ")
+        }
+    }
+    catch
+    {
+        @("No Genres Found")
+    }
+}

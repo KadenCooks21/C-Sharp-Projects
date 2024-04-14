@@ -1,0 +1,143 @@
+﻿@* 
+Kaden Parfait
+C00493778
+CMPS 358 .NET/C# Programming
+ChinookRazorWebsite
+*@
+@page
+@using ChinookLibrary.Models
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    
+    <form method="post" enctype="multipart/form-data">
+        Show Genres
+        <input type="hidden" asp-for="Genre" value="placeholder">
+        <input type="submit" value="Submit">
+    </form>
+    <p>
+        @{
+            <br/>
+            if (Model.Genre != null)
+            {
+                var genreList = DbUtility.getGenres();
+                if (genreList != null)
+                {
+                    <textarea style="width: 200px; min-height: 300px">
+                    @foreach (var g in genreList)
+                    {
+                        @($"{g}\n")
+                    }
+                    </textarea>
+                }
+            }
+        }
+    </p>
+    
+    <form method="post" enctype="multipart/form-data">
+        Show Artists
+        <input type="hidden" asp-for="Artist" value="placeholder">
+        <input type="submit" value="Submit">
+    </form>
+    <p>
+        @{
+            <br/>
+            if (Model.Artist != null)
+            {
+                var artistList = DbUtility.getArtists();
+                if (artistList != null)
+                {
+                    <textarea style="width: 600px; min-height: 300px">
+                    @foreach (var a in artistList)
+                    {
+                        @($"{a}\n")
+                    }
+                    </textarea>
+                }
+            }
+        }
+    </p>
+    
+    <form method="post" enctype="multipart/form-data">
+        Show Composers
+        <input type="hidden" asp-for="Composer" value="placeholder">
+        <input type="submit" value="Submit">
+    </form>
+    <p>
+        @{
+            <br/>
+            if (Model.Composer != null)
+            {
+                var composerList = DbUtility.getArtistSongCount();
+                if (composerList != null)
+                {
+                    <textarea style="width: 600px; min-height: 300px">
+                        @foreach (var c in composerList)
+                        {
+                            @($"{c}\n")
+                        }
+                        </textarea>
+                }
+            }
+        }
+    </p>
+    
+    <form method="post" enctype="multipart/form-data">
+        Select a Genre
+        @{
+            var genreList = DbUtility.getGenres();
+            var selectGenreList = new List<SelectListItem>();
+            foreach (var genre in genreList)
+            {
+              selectGenreList.Add(new SelectListItem(genre, genre));
+            }
+        }
+        <br/>
+        @Html.DropDownList("ChosenGenre", selectGenreList, "Select a Genre")
+        <input type="submit" value="Submit">
+    </form>
+    @{
+        var genreTracks = DbUtility.getTracksFromGenre(@Model.ChosenGenre);
+        if (genreTracks != null)
+        {
+            <textarea style="width: 600px; min-height: 300px">
+            @foreach (var t in genreTracks)
+            {
+                @($"{t}\n")
+            }
+            </textarea>
+        }
+    }
+    <br/>
+    
+    <form method="post" enctype="multipart/form-data">
+        Select an Artist
+        @{
+            var artistList = DbUtility.getArtists();
+            var selectArtistList = new List<SelectListItem>();
+            foreach (var artist in artistList)
+            {
+              selectArtistList.Add(new SelectListItem(artist, artist));
+            }
+        }
+        <br/>
+        @Html.DropDownList("ChosenArtist", selectArtistList, "Select an Artist")
+        <input type="submit" value="Submit">
+    </form>
+    @{
+        var artistTracks = DbUtility.getTracksFromArtist(@Model.ChosenArtist);
+        if (artistTracks != null)
+        {
+            <textarea style="width: 600px; min-height: 300px">
+            @foreach (var t in artistTracks)
+            {
+                @($"{t}\n")
+            }
+            </textarea>
+        }
+    }
+    
+</div>

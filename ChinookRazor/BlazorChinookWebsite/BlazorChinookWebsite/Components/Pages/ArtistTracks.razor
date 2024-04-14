@@ -1,0 +1,45 @@
+@page "/artisttracks"
+@rendermode InteractiveServer
+@using ChinookLibrary.Models
+<h3>List Tracks By Artist</h3>
+
+
+<EditForm Model="@this" OnSubmit="@Submit" FormName="TheseTracks">
+    <datalist id="artists">
+        @foreach (var a in DbUtility.getArtists())
+        {
+            <option label=@a value=@a></option>
+        }
+    </datalist>
+    
+    <InputText @bind-Value="ChosenArtist" list="artists"></InputText>
+    <button type="submit">Submit</button>
+</EditForm>
+
+@if (submitted)
+{
+    <br/>
+    <h3>Here is the List of Tracks by @ChosenArtist</h3>
+
+    try
+    {
+        <textarea style="min-height: 200px; min-width: 600px">
+        @foreach (var t in DbUtility.getTracksFromArtist(ChosenArtist)) 
+        {
+            @($"{t}\n")
+        }
+    </textarea>
+    }
+    catch
+    {
+        @($"No Tracks From {ChosenArtist}")
+    }
+}
+
+@code {
+    bool submitted = false;
+
+    [SupplyParameterFromForm] public string? ChosenArtist { get; set; }
+
+    private void Submit() => submitted = true;
+}

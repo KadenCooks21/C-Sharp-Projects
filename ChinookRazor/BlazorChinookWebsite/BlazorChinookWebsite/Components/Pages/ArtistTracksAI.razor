@@ -1,0 +1,45 @@
+@page "/artisttracksai"
+@using ChinookLibrary.Models
+@using Microsoft.AspNetCore.Antiforgery
+@attribute [RequireAntiforgeryToken]
+<h3>List Tracks by Artist - AI!</h3>
+
+<EditForm Model="@this" OnSubmit="@Submit" FormName="TracksFromArtistAi">
+    <div>
+        <SmartComboBox Url="api/suggestions/artistlist"
+                       id="choseartist" @bind-Value="@ChosenArtist"
+                       placeholder=" " />
+        <label for="choseartist">Choose Artist</label>
+    </div>
+    
+    <button type="submit">Submit</button>
+</EditForm>
+
+@if (submitted) 
+{
+    <br/>
+    <h3>Here is the List of Tracks by @ChosenArtist</h3>
+    
+    try
+    {
+        foreach (var t in DbUtility.getTracksFromArtist(ChosenArtist))
+        {
+            @($"{t}")
+            <br/> 
+        }
+    }
+    catch
+    {
+        @($"No Tracks From {ChosenArtist}")
+    } 
+}
+
+
+@code {
+    bool submitted = false;
+    
+    [SupplyParameterFromForm]
+    public string? ChosenArtist { get; set; }
+    
+    private void Submit() => submitted = true; 
+}
