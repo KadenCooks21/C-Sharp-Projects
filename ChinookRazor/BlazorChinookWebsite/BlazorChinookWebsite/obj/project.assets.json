@@ -2653,11 +2653,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/BlazorChinookWebsite.csproj",
+      "projectUniqueName": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/BlazorChinookWebsite.csproj",
       "projectName": "BlazorChinookWebsite",
-      "projectPath": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/BlazorChinookWebsite.csproj",
+      "projectPath": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/BlazorChinookWebsite.csproj",
       "packagesPath": "/Users/kadencooks/.nuget/packages/",
-      "outputPath": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/obj/",
+      "outputPath": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kadencooks/.nuget/NuGet/NuGet.Config"
@@ -2672,8 +2672,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/ChinookLibrary/ChinookLibrary/ChinookLibrary.csproj": {
-              "projectPath": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/ChinookLibrary/ChinookLibrary/ChinookLibrary.csproj"
+            "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/ChinookLibrary/ChinookLibrary/ChinookLibrary.csproj": {
+              "projectPath": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/ChinookLibrary/ChinookLibrary/ChinookLibrary.csproj"
             }
           }
         }

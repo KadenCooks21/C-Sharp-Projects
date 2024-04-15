@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/obj/Debug/net8.0/scopedcss/projectbundle/BlazorChinookWebsite.bundle.scp.css",
+      "Id": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/obj/Debug/net8.0/scopedcss/projectbundle/BlazorChinookWebsite.bundle.scp.css",
       "PackagePath": "staticwebassets/BlazorChinookWebsite.bundle.scp.css"
     },
     {
-      "Id": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/app.css",
+      "Id": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/app.css",
       "PackagePath": "staticwebassets/app.css"
     },
     {
-      "Id": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/bootstrap/bootstrap.min.css",
+      "Id": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/bootstrap/bootstrap.min.css",
       "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
     },
     {
-      "Id": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/bootstrap/bootstrap.min.css.map",
+      "Id": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/bootstrap/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/favicon.png",
+      "Id": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/favicon.png",
       "PackagePath": "staticwebassets/favicon.png"
     },
     {

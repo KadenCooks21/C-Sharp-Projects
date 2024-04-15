@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M51Elm9dzuI/M9TebU9yq5w1sFRMecFgKmlfeJy2ZbKNCPa1d+TSs3+eog94SR+fXMEG0iNFLf9b/AaUqtFGow==",
+  "dgSpecHash": "RCDFLMSSjV6LhQXUCGPFlRY/ZSL5BDTvaqvMi17jlmSSTVGcsBaBebdbBBiAhhLpc79jcD+AwsdeQSTEW/kaBA==",
   "success": true,
-  "projectFilePath": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/BlazorChinookWebsite.csproj",
+  "projectFilePath": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/BlazorChinookWebsite.csproj",
   "expectedPackageFiles": [
     "/Users/kadencooks/.nuget/packages/azure.ai.openai/1.0.0-beta.11/azure.ai.openai.1.0.0-beta.11.nupkg.sha512",
     "/Users/kadencooks/.nuget/packages/azure.core/1.36.0/azure.core.1.36.0.nupkg.sha512",

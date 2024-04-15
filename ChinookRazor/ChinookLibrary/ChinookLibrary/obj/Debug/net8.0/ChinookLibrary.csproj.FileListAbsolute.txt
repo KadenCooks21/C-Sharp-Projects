@@ -26,3 +26,18 @@
 /Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/ChinookLibrary/ChinookLibrary/obj/Debug/net8.0/ChinookLibrary.pdb
 /Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/ChinookLibrary/ChinookLibrary/obj/Debug/net8.0/ChinookLibrary.genruntimeconfig.cache
 /Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/ChinookLibrary/ChinookLibrary/obj/Debug/net8.0/ref/ChinookLibrary.dll
+/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/ChinookLibrary/ChinookLibrary/bin/Debug/net8.0/ChinookLibrary.deps.json
+/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/ChinookLibrary/ChinookLibrary/bin/Debug/net8.0/ChinookLibrary.runtimeconfig.json
+/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/ChinookLibrary/ChinookLibrary/bin/Debug/net8.0/ChinookLibrary.dll
+/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/ChinookLibrary/ChinookLibrary/bin/Debug/net8.0/ChinookLibrary.pdb
+/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/ChinookLibrary/ChinookLibrary/obj/Debug/net8.0/ChinookLibrary.csproj.AssemblyReference.cache
+/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/ChinookLibrary/ChinookLibrary/obj/Debug/net8.0/ChinookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/ChinookLibrary/ChinookLibrary/obj/Debug/net8.0/ChinookLibrary.AssemblyInfoInputs.cache
+/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/ChinookLibrary/ChinookLibrary/obj/Debug/net8.0/ChinookLibrary.AssemblyInfo.cs
+/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/ChinookLibrary/ChinookLibrary/obj/Debug/net8.0/ChinookLibrary.csproj.CoreCompileInputs.cache
+/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/ChinookLibrary/ChinookLibrary/obj/Debug/net8.0/ChinookLibrary.sourcelink.json
+/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/ChinookLibrary/ChinookLibrary/obj/Debug/net8.0/ChinookLibrary.dll
+/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/ChinookLibrary/ChinookLibrary/obj/Debug/net8.0/refint/ChinookLibrary.dll
+/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/ChinookLibrary/ChinookLibrary/obj/Debug/net8.0/ChinookLibrary.pdb
+/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/ChinookLibrary/ChinookLibrary/obj/Debug/net8.0/ChinookLibrary.genruntimeconfig.cache
+/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/ChinookLibrary/ChinookLibrary/obj/Debug/net8.0/ref/ChinookLibrary.dll

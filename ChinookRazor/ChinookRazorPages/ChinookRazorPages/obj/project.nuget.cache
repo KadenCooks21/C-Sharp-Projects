@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oi/vu/zb/8Ii93hs7s0Fn0EeYP2/s8rRRHmix945bI5siCMmY+wkeBG4duFJmkDgplBuI3GAnbOZMk/JwOqCog==",
+  "dgSpecHash": "BQzON8J8R0At094KCjMt7nsx2Jo4+7AEJrKe1FlFyELHzrS4vOJkx3B2duZBM/4blRTuO2LQCPi6IM2g9zByrQ==",
   "success": true,
-  "projectFilePath": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/ChinookRazorPages/ChinookRazorPages/ChinookRazorPages.csproj",
+  "projectFilePath": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/ChinookRazorPages/ChinookRazorPages/ChinookRazorPages.csproj",
   "expectedPackageFiles": [
     "/Users/kadencooks/.nuget/packages/microsoft.data.sqlite.core/8.0.2/microsoft.data.sqlite.core.8.0.2.nupkg.sha512",
     "/Users/kadencooks/.nuget/packages/microsoft.entityframeworkcore/8.0.2/microsoft.entityframeworkcore.8.0.2.nupkg.sha512",

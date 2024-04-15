@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "F5vdVMxQkRkB0fBDitI8tAmmhEPWfO/udqLukrdHMls=",
+  "Hash": "zTMLIQYFVBqDEMPWjrr3dKSB9oKchBo1gmhcBKKP07M=",
   "Source": "BlazorChinookWebsite",
   "BasePath": "_content/BlazorChinookWebsite",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "BlazorChinookWebsite/wwwroot",
       "Source": "BlazorChinookWebsite",
-      "ContentRoot": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/",
+      "ContentRoot": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/",
       "BasePath": "_content/BlazorChinookWebsite",
       "Pattern": "**"
     }
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "/Users/kadencooks/.nuget/packages/smartcomponents.aspnetcore.components/0.1.0-preview10148/staticwebassets/SmartComponents.AspNetCore.Components.lib.module.js"
     },
     {
-      "Identity": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/obj/Debug/net8.0/jsmodules/jsmodules.build.manifest.json",
+      "Identity": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/obj/Debug/net8.0/jsmodules/jsmodules.build.manifest.json",
       "SourceId": "BlazorChinookWebsite",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/obj/Debug/net8.0/jsmodules/",
+      "ContentRoot": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/obj/Debug/net8.0/jsmodules/",
       "BasePath": "_content/BlazorChinookWebsite",
       "RelativePath": "BlazorChinookWebsite.modules.json",
       "AssetKind": "Build",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "obj/Debug/net8.0/jsmodules/jsmodules.build.manifest.json"
     },
     {
-      "Identity": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/obj/Debug/net8.0/scopedcss/bundle/BlazorChinookWebsite.styles.css",
+      "Identity": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/obj/Debug/net8.0/scopedcss/bundle/BlazorChinookWebsite.styles.css",
       "SourceId": "BlazorChinookWebsite",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/BlazorChinookWebsite",
       "RelativePath": "BlazorChinookWebsite.styles.css",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/obj/Debug/net8.0/scopedcss/bundle/BlazorChinookWebsite.styles.css"
+      "OriginalItemSpec": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/obj/Debug/net8.0/scopedcss/bundle/BlazorChinookWebsite.styles.css"
     },
     {
-      "Identity": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/obj/Debug/net8.0/scopedcss/projectbundle/BlazorChinookWebsite.bundle.scp.css",
+      "Identity": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/obj/Debug/net8.0/scopedcss/projectbundle/BlazorChinookWebsite.bundle.scp.css",
       "SourceId": "BlazorChinookWebsite",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/BlazorChinookWebsite",
       "RelativePath": "BlazorChinookWebsite.bundle.scp.css",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/obj/Debug/net8.0/scopedcss/projectbundle/BlazorChinookWebsite.bundle.scp.css"
+      "OriginalItemSpec": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/obj/Debug/net8.0/scopedcss/projectbundle/BlazorChinookWebsite.bundle.scp.css"
     },
     {
-      "Identity": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/app.css",
+      "Identity": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/app.css",
       "SourceId": "BlazorChinookWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/",
+      "ContentRoot": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/",
       "BasePath": "_content/BlazorChinookWebsite",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot/app.css"
     },
     {
-      "Identity": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/bootstrap/bootstrap.min.css",
+      "Identity": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/bootstrap/bootstrap.min.css",
       "SourceId": "BlazorChinookWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/",
+      "ContentRoot": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/",
       "BasePath": "_content/BlazorChinookWebsite",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/bootstrap/bootstrap.min.css.map",
+      "Identity": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/bootstrap/bootstrap.min.css.map",
       "SourceId": "BlazorChinookWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/",
+      "ContentRoot": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/",
       "BasePath": "_content/BlazorChinookWebsite",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/favicon.png",
+      "Identity": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/favicon.png",
       "SourceId": "BlazorChinookWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/kadencooks/Documents/Spring 2024/CMPS 358/Notes/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/",
+      "ContentRoot": "/Users/kadencooks/Desktop/C# Projects/C-Sharp-Projects/ChinookRazor/BlazorChinookWebsite/BlazorChinookWebsite/wwwroot/",
       "BasePath": "_content/BlazorChinookWebsite",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
