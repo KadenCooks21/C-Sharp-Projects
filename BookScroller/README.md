@@ -10,3 +10,7 @@ This project uses mainly function calls rather than hard coded to further show t
 ### Upon Launch:
 - There is a menu that gives to user the option to Scroll Up, Scroll Down, Select, and Exit using U, D, a valid Integer, and X respectively
 - The menu then opens again and presents the same options minus the Integer selection to allow the user to scroll through the chapter
+
+### Test Runs:
+
+
