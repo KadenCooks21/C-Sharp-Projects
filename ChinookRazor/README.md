@@ -27,7 +27,12 @@ Before Run:
 
 The focus of this is the Pages folder within the Components folder. Within those pages there is code written to utilize the functions from DBUtility and to showcase them either as lists generated after a button is pressed, drop down lists, as well as a drop down list that is generated using AI functionality.
 
+**Test Run Example:**
+![Blazor page is depicted using the AI generated drop down list to search the database for all the songs from a chosen artist.](<RunScreenshots/Blazor 1.png>)
+  - Blazor page is depicted using the AI generated drop down list to search the database for all the songs from a chosen artist.
 <br>
+<br>
+
 
 ### Chinook Razor Pages
 Before Run:
@@ -35,3 +40,9 @@ Before Run:
 - This an only be run once this and the library is rebuilt using their respective terminal lines
 
 The focus of this is the Index.cshtml in the Pages folder in the Solution directory and the Index.cshtml.cs file in the Index.cshtml folder. The Index.cshtml.cs has the BindProperties that are used as gets and sets in the Index.cshtml file, and that file includes all the different ways of utilizing the same functions that the Blazor Chinook Website uses but all within a single page using Razor instead of Blazor.
+
+**Test Run Example:**
+![Razor page is depicted using the drop down list to search the database for all the songs from a chosen artist.](<RunScreenshots/Razor 1.png>)
+  - Razor page is depicted using the drop down list to search the database for all the songs from a chosen artist.
+<br>
+<br>
