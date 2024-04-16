@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorChinookWebsite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55f02c68796456096c6bd439bdec6e5741b82310")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+926be0b2b45b9047e4e2682539cbafaa85290dda")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorChinookWebsite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorChinookWebsite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
